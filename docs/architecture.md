@@ -3,7 +3,7 @@
 ## Date: 2026-03-24
 ## Members and Roles:
 - Corpus Architect: Vaishnav Busha
-- Pipeline Engineer: Nishith Mareddy
+- Pipeline Engineer: Nishith Chowdary Mareddy
 - UX Lead: Jyothi Swaroop Ganapavarapu
 - Prompt Engineer: Mohith Vepanjeri
 - QA Lead: Shared by team
